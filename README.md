@@ -21,7 +21,7 @@
 
    chat-gpt 예시
 ![image](https://github.com/NooriDoori/cam/assets/112747810/b00aad54-744d-4a61-9f86-b160d7325195)
-
+![image](https://github.com/NooriDoori/cam/assets/112747810/647512fc-fca0-4ba2-8084-4b807bac89d2)
 4. **SNS 게시**
    - 생성된 텍스트를 SNS API 또는 공유 기능을 통해 자동 또는 수동으로 게시
    - 트위터 API를 사용하여 트윗을 작성 또는 인스타그램 API를 사용하여 게시물 업로드

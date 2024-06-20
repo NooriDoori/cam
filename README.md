@@ -28,6 +28,7 @@
    - 트위터 API를 사용하여 트윗을 작성 또는 인스타그램 API를 사용하여 게시물 업로드
 
 ## 구조
+![스크린샷 2024-06-20 142024](https://github.com/NooriDoori/cam/assets/112747810/dad0e2a6-3c6b-45d5-8386-f15983ea17e1)
 
 ```mermaid
 graph TD

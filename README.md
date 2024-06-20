@@ -8,7 +8,7 @@
 
 1. **사진 촬영**
    - 라즈베리 파이 제로에 연결된 카메라모듈로 일정 간격으로 사진 촬영
-   - https://www.devicemart.co.kr/goods/view?no=1077951
+   - [https://www.devicemart.co.kr/goods/view?no=1077951](https://m.vctec.co.kr/product/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4-%EC%A0%9C%EB%A1%9C-%EC%B9%B4%EB%A9%94%EB%9D%BC-5mp-raspberry-pi-zero-camera-module-5mp/13648/)
    - 촬영된 사진은 저장되고 WIFI를 사용하여 ( 서버 or 사진 품질 분류 모델 ) 택1 로 전송됨
 
 2. **이미지 필터링**

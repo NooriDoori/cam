@@ -43,6 +43,9 @@ graph TD
 
 ```
 
+![blk_img](https://files.catbox.moe/iuk461.jpg)
+
+
 ## 조원
 - 유정훈 ( LLM 서버 개발 ) 
 - 최우성 ( 하드웨어 센서 통합 )

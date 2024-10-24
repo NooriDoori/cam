@@ -43,17 +43,20 @@ graph TD
 
 ```
 
-![blk_img](https://files.catbox.moe/iuk461.jpg)
+
+
+![스크린샷(389)](https://github.com/user-attachments/assets/900dad93-10a0-4ed5-a8c6-2d82df45b22e)
 
 
 
-https://github.com/user-attachments/assets/562e393d-270c-4098-b7ba-db3cf29aee03
+https://github.com/user-attachments/assets/fd980b3c-f727-4d7c-80f2-799ebbe4699b
+
 
 
 
 
 ## 조원
-- 유정훈 ( LLM 서버 개발 ) 
+- 유정훈 ( 메인 개발 ) 
 - 최우성 ( 하드웨어 센서 통합 )
 - 성명훈 ( 센서 소프트웨어 개발 )
 - 박재선 ( 웹 어플리케이션 개발 )

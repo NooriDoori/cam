@@ -32,20 +32,10 @@
 ## 구조
 <!--![스크린샷 2024-06-20 142024](https://github.com/NooriDoori/cam/assets/112747810/dad0e2a6-3c6b-45d5-8386-f15983ea17e1)-->
 
-```mermaid
-graph TD
-    A[카메라 모듈] --이미지--> B[라즈베리파이] --> F[IMU 센서 판단]
-    F -- 흔들린/기울어진 사진 --> Z[삭제]
-    F -->|좋은 사진| C[ 임베딩DB & LLM]
-    C -->|텍스트 생성| D[사용자 웹 인터페이스]
-    D -- 필요 시 재생성 --> C
-    D -->|SNS 게시| E[SNS 게시물]
-
-```
 
 
+![image](https://github.com/user-attachments/assets/2ba5e963-a941-4ef7-9f8f-2fce4f41451c)
 
-![스크린샷(389)](https://github.com/user-attachments/assets/900dad93-10a0-4ed5-a8c6-2d82df45b22e)
 
 
 
